@@ -11,7 +11,7 @@
 В подготовке данных применен анализ выборок по различным статистическим тестам и проверены гипотезы относительно распределения каждого параметра, на основании результатов которых принималось первичное решения о целесообразности использования признака.
 
 ## [/Simple_RandomForestRegressor_model][4] - Прогнозирование цен на квартиры при помощи RandomForestRegressor из коробки.
-- Данные: с kaggle - https://www.kaggle.com/c/realestatepriceprediction
+- Данные с kaggle - https://www.kaggle.com/c/realestatepriceprediction
 - Модель: RandomForestRegressor
 
 ## [/Math_stat_analysis_examples][5] - Несколько примеров применения статистического/дисперсионного анализа некоторых выборок
