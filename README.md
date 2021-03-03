@@ -16,13 +16,9 @@
 - Данные с kaggle - https://www.kaggle.com/c/realestatepriceprediction
 - Модель: RandomForestRegressor
 
-## [/Math_stat_analysis_examples][5] - Несколько примеров применения статистического/дисперсионного анализа некоторых выборок
-
-
 
 ---
 [1]: https://github.com/mahhets/portfolio/tree/main/Scrapy_parser_mongodb_example(Ogo.ru)
 [2]: https://github.com/mahhets/portfolio/tree/main/MySQL_creating_and_requests_example(DNS.ru)
 [3]: https://github.com/mahhets/portfolio/tree/main/CatBoostClassifier_model
 [4]: https://github.com/mahhets/portfolio/tree/main/Simple_RandomForestRegressor_model
-[5]: https://github.com/mahhets/portfolio/tree/main/Math_stat_analysis_examples
