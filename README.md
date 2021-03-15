@@ -12,13 +12,13 @@
 
 В подготовке данных применен анализ выборок по различным статистическим тестам и проверены гипотезы относительно распределения каждого параметра, на основании результатов которых принималось первичное решения о целесообразности использования признака.
 
-## [/Simple_RandomForestRegressor_model][4] - Прогнозирование цен на квартиры при помощи RandomForestRegressor из коробки.
+## [/Voting_Regressor][4] - Прогнозирование цен на квартиры при помощи VotingRegressor(CatBoost, RandomForestRegressor, GradientBoostingRegressor)
+- Top 5%
 - Данные с kaggle - https://www.kaggle.com/c/realestatepriceprediction
-- Модель: RandomForestRegressor
 
 
 ---
 [1]: https://github.com/mahhets/portfolio/tree/main/Scrapy_parser_mongodb_example(Ogo.ru)
 [2]: https://github.com/mahhets/portfolio/tree/main/MySQL_creating_and_requests_example(DNS.ru)
 [3]: https://github.com/mahhets/portfolio/tree/main/CatBoostClassifier_model
-[4]: https://github.com/mahhets/portfolio/tree/main/Simple_RandomForestRegressor_model
+[4]: https://github.com/mahhets/my_projects/tree/main/Voting_Regressor
