@@ -25,6 +25,10 @@
 ## [/Self_made_LogisticRegression_model][7] - Predicting probability for a tutor to be a proper one for preparing for the math exam
 - Самописная логистическая регрессия
 - https://www.kaggle.com/c/choose-tutors/overview
+
+## [/Analyzing_tone_of_comments][8] - Сервис анализа тональности русскоязычных комментариев.
+- Стек: NLTK, TFIDF, Pymorphy2, Flask
+- В рамках проекта была найдена оптимальня модель, создан единый пайплан обработки(очистка текста, лемматизация), модель была сохранена и в дальнейшем использовалась в Flask-приложении для анализа токсичности.
 ---
 [1]: https://github.com/mahhets/portfolio/tree/main/Scrapy_parser_mongodb_example(Ogo.ru)
 [2]: https://github.com/mahhets/portfolio/tree/main/MySQL_creating_and_requests_example(DNS.ru)
@@ -33,3 +37,4 @@
 [5]: https://github.com/mahhets/my_projects/tree/main/Self_made_Stochastic(batch)_Gradient_Boosting
 [6]: https://github.com/mahhets/my_projects/tree/main/Gradient_Boosting_on_RegressionTrees
 [7]: https://github.com/mahhets/my_projects/tree/main/Self_made_LogisticRegression_model
+[8]: https://github.com/mahhets/my_projects/tree/main/Analyzing_tone_of_comments
