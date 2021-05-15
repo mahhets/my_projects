@@ -8,7 +8,7 @@
 
 ## [/Uplift_modeling][2] - Решение задачи uplift моделирования
 - Данные: Cоревнования Retail Hero от X5 Retail http://retailhero.ai/#rec141268104
-- Методы: S-learner,T-learner, Трансформация класса
+- Методы: S-learner, T-learner, Трансформация класса
 - В решении были использованы три метода, указанных выше. Для каждого была подсчитана uplift@k на 30%
 
 ## [/Scrapy_parser_mongodb_example][3] - Parsing data(product info, product images) of the store; saving in MongoDB. Парсинг данных(инфо о товаре, изображения товара) магазина с сохранением в MongoDB.
