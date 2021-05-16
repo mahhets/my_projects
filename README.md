@@ -47,7 +47,7 @@
 ---
 [1]: https://github.com/mahhets/my_projects/tree/main/Analyzing_tone_of_comments
 [2]: https://github.com/mahhets/my_projects/tree/main/Uplift_modeling
-[2]: https://github.com/mahhets/my_projects/tree/main/Churn_forecasting
+[3]: https://github.com/mahhets/my_projects/tree/main/Churn_forecasting
 [4]: https://github.com/mahhets/portfolio/tree/main/Scrapy_parser_mongodb_example(Ogo.ru)
 [5]: https://github.com/mahhets/portfolio/tree/main/MySQL_creating_and_requests_example(DNS.ru)
 [6]: https://github.com/mahhets/portfolio/tree/main/CatBoostClassifier_model
